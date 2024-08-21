@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## I'm learning how to use github and, code and learn more efficiently with the tools. 
 <!--
 **JaseCodez/JaseCodez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
