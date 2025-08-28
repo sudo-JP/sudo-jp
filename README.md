@@ -1,4 +1,4 @@
-```json
+```javascript
 {
     Name: "Jason Phan",
 
