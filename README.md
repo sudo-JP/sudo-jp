@@ -12,7 +12,7 @@
     ],
 
     programmingLanguage: [
-        "Rust", "Python", "Go, "C++", "C", "Java", "TS", 
+        "Rust", "Python", "Go", "C++", "C", "Java", "TS", 
         "There are more, but just keeping this clean for now.",
     ],
 
