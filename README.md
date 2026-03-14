@@ -1,16 +1,23 @@
 ```javascript
 {
-    Name: "Jason Phan",
+    name: "Jason Phan",
 
-    Education: "University of Toronto",
+    education: "University of Toronto",
 
-    Email: "jasonphan210@gmail.com",
+    email: "jasonphan210@gmail.com",
 
-    Developer_Tools: [
+    developerTools: [
         "Arch Linux", "Neovim", "Docker", 
         "Proxmox", "Overleaf", "gdb"
     ],
 
-    Joke: "The joke here is my name is Jason, and I'm using JSON as my description. Hahaha, get it?"
+    programmingLanguage: [
+        "Rust", "Python", "C++", "C", "TS", 
+        "There are more, but just keeping this clean for now.",
+    ],
+
+    joke: "The joke here is my name is Jason, and I'm using JSON as my description. Hahaha, get it?",
+
+    note: "Quality over quantity? Yea I'm trying to do both in my commits.", 
 }
 ```
